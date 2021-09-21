@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/asian-restaurant/static/css/main.a617e044.chunk.css",
-    "main.js": "/asian-restaurant/static/js/main.6413f51d.chunk.js",
-    "main.js.map": "/asian-restaurant/static/js/main.6413f51d.chunk.js.map",
-    "runtime-main.js": "/asian-restaurant/static/js/runtime-main.c13db788.js",
-    "runtime-main.js.map": "/asian-restaurant/static/js/runtime-main.c13db788.js.map",
-    "static/js/2.e866d978.chunk.js": "/asian-restaurant/static/js/2.e866d978.chunk.js",
-    "static/js/2.e866d978.chunk.js.map": "/asian-restaurant/static/js/2.e866d978.chunk.js.map",
-    "static/js/3.77470e44.chunk.js": "/asian-restaurant/static/js/3.77470e44.chunk.js",
-    "static/js/3.77470e44.chunk.js.map": "/asian-restaurant/static/js/3.77470e44.chunk.js.map",
+    "main.css": "/asian-restaurant/static/css/main.eee894e8.chunk.css",
+    "main.js": "/asian-restaurant/static/js/main.35580d80.chunk.js",
+    "main.js.map": "/asian-restaurant/static/js/main.35580d80.chunk.js.map",
+    "runtime-main.js": "/asian-restaurant/static/js/runtime-main.3280b23f.js",
+    "runtime-main.js.map": "/asian-restaurant/static/js/runtime-main.3280b23f.js.map",
+    "static/js/2.e615a441.chunk.js": "/asian-restaurant/static/js/2.e615a441.chunk.js",
+    "static/js/2.e615a441.chunk.js.map": "/asian-restaurant/static/js/2.e615a441.chunk.js.map",
+    "static/js/3.f6a996ed.chunk.js": "/asian-restaurant/static/js/3.f6a996ed.chunk.js",
+    "static/js/3.f6a996ed.chunk.js.map": "/asian-restaurant/static/js/3.f6a996ed.chunk.js.map",
     "index.html": "/asian-restaurant/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/asian-restaurant/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.e866d978.chunk.js.LICENSE.txt": "/asian-restaurant/static/js/2.e866d978.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/asian-restaurant/static/media/logo.6ce24c58.svg"
+    "static/css/main.eee894e8.chunk.css.map": "/asian-restaurant/static/css/main.eee894e8.chunk.css.map",
+    "static/js/2.e615a441.chunk.js.LICENSE.txt": "/asian-restaurant/static/js/2.e615a441.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/asian-restaurant/static/media/Nunito-Regular.e4eb7682.ttf",
+    "static/media/section.css": "/asian-restaurant/static/media/third.ae4ded6c.jpg",
+    "static/media/hero.css": "/asian-restaurant/static/media/hero.1fc27817.jpg",
+    "static/media/logo.81de7ef7.png": "/asian-restaurant/static/media/logo.81de7ef7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c13db788.js",
-    "static/js/2.e866d978.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.6413f51d.chunk.js"
+    "static/js/runtime-main.3280b23f.js",
+    "static/js/2.e615a441.chunk.js",
+    "static/css/main.eee894e8.chunk.css",
+    "static/js/main.35580d80.chunk.js"
   ]
 }
