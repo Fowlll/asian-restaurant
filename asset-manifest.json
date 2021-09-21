@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/asian-restaurant/static/css/main.eee894e8.chunk.css",
-    "main.js": "/asian-restaurant/static/js/main.35580d80.chunk.js",
-    "main.js.map": "/asian-restaurant/static/js/main.35580d80.chunk.js.map",
+    "main.css": "/asian-restaurant/static/css/main.48ebd889.chunk.css",
+    "main.js": "/asian-restaurant/static/js/main.21bf75c6.chunk.js",
+    "main.js.map": "/asian-restaurant/static/js/main.21bf75c6.chunk.js.map",
     "runtime-main.js": "/asian-restaurant/static/js/runtime-main.3280b23f.js",
     "runtime-main.js.map": "/asian-restaurant/static/js/runtime-main.3280b23f.js.map",
-    "static/js/2.e615a441.chunk.js": "/asian-restaurant/static/js/2.e615a441.chunk.js",
-    "static/js/2.e615a441.chunk.js.map": "/asian-restaurant/static/js/2.e615a441.chunk.js.map",
+    "static/js/2.7dd97329.chunk.js": "/asian-restaurant/static/js/2.7dd97329.chunk.js",
+    "static/js/2.7dd97329.chunk.js.map": "/asian-restaurant/static/js/2.7dd97329.chunk.js.map",
     "static/js/3.f6a996ed.chunk.js": "/asian-restaurant/static/js/3.f6a996ed.chunk.js",
     "static/js/3.f6a996ed.chunk.js.map": "/asian-restaurant/static/js/3.f6a996ed.chunk.js.map",
     "index.html": "/asian-restaurant/index.html",
-    "static/css/main.eee894e8.chunk.css.map": "/asian-restaurant/static/css/main.eee894e8.chunk.css.map",
-    "static/js/2.e615a441.chunk.js.LICENSE.txt": "/asian-restaurant/static/js/2.e615a441.chunk.js.LICENSE.txt",
+    "static/css/main.48ebd889.chunk.css.map": "/asian-restaurant/static/css/main.48ebd889.chunk.css.map",
+    "static/js/2.7dd97329.chunk.js.LICENSE.txt": "/asian-restaurant/static/js/2.7dd97329.chunk.js.LICENSE.txt",
     "static/media/main.css": "/asian-restaurant/static/media/Nunito-Regular.e4eb7682.ttf",
     "static/media/section.css": "/asian-restaurant/static/media/third.ae4ded6c.jpg",
     "static/media/hero.css": "/asian-restaurant/static/media/hero.1fc27817.jpg",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3280b23f.js",
-    "static/js/2.e615a441.chunk.js",
-    "static/css/main.eee894e8.chunk.css",
-    "static/js/main.35580d80.chunk.js"
+    "static/js/2.7dd97329.chunk.js",
+    "static/css/main.48ebd889.chunk.css",
+    "static/js/main.21bf75c6.chunk.js"
   ]
 }
