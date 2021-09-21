@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/asian-restaurant/static/css/main.a617e044.chunk.css",
+    "main.js": "/asian-restaurant/static/js/main.6413f51d.chunk.js",
+    "main.js.map": "/asian-restaurant/static/js/main.6413f51d.chunk.js.map",
+    "runtime-main.js": "/asian-restaurant/static/js/runtime-main.c13db788.js",
+    "runtime-main.js.map": "/asian-restaurant/static/js/runtime-main.c13db788.js.map",
+    "static/js/2.e866d978.chunk.js": "/asian-restaurant/static/js/2.e866d978.chunk.js",
+    "static/js/2.e866d978.chunk.js.map": "/asian-restaurant/static/js/2.e866d978.chunk.js.map",
+    "static/js/3.77470e44.chunk.js": "/asian-restaurant/static/js/3.77470e44.chunk.js",
+    "static/js/3.77470e44.chunk.js.map": "/asian-restaurant/static/js/3.77470e44.chunk.js.map",
+    "index.html": "/asian-restaurant/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/asian-restaurant/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e866d978.chunk.js.LICENSE.txt": "/asian-restaurant/static/js/2.e866d978.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/asian-restaurant/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c13db788.js",
+    "static/js/2.e866d978.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.6413f51d.chunk.js"
+  ]
+}
