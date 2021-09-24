@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/asian-restaurant/static/css/main.48ebd889.chunk.css",
-    "main.js": "/asian-restaurant/static/js/main.21bf75c6.chunk.js",
-    "main.js.map": "/asian-restaurant/static/js/main.21bf75c6.chunk.js.map",
-    "runtime-main.js": "/asian-restaurant/static/js/runtime-main.3280b23f.js",
-    "runtime-main.js.map": "/asian-restaurant/static/js/runtime-main.3280b23f.js.map",
-    "static/js/2.7dd97329.chunk.js": "/asian-restaurant/static/js/2.7dd97329.chunk.js",
-    "static/js/2.7dd97329.chunk.js.map": "/asian-restaurant/static/js/2.7dd97329.chunk.js.map",
-    "static/js/3.f6a996ed.chunk.js": "/asian-restaurant/static/js/3.f6a996ed.chunk.js",
-    "static/js/3.f6a996ed.chunk.js.map": "/asian-restaurant/static/js/3.f6a996ed.chunk.js.map",
-    "index.html": "/asian-restaurant/index.html",
-    "static/css/main.48ebd889.chunk.css.map": "/asian-restaurant/static/css/main.48ebd889.chunk.css.map",
-    "static/js/2.7dd97329.chunk.js.LICENSE.txt": "/asian-restaurant/static/js/2.7dd97329.chunk.js.LICENSE.txt",
-    "static/media/main.css": "/asian-restaurant/static/media/Nunito-Regular.e4eb7682.ttf",
-    "static/media/section.css": "/asian-restaurant/static/media/third.ae4ded6c.jpg",
-    "static/media/hero.css": "/asian-restaurant/static/media/hero.1fc27817.jpg",
-    "static/media/logo.81de7ef7.png": "/asian-restaurant/static/media/logo.81de7ef7.png"
+    "main.css": "/static/css/main.a29c76ac.chunk.css",
+    "main.js": "/static/js/main.21bf75c6.chunk.js",
+    "main.js.map": "/static/js/main.21bf75c6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d03c7a33.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d03c7a33.js.map",
+    "static/js/2.7dd97329.chunk.js": "/static/js/2.7dd97329.chunk.js",
+    "static/js/2.7dd97329.chunk.js.map": "/static/js/2.7dd97329.chunk.js.map",
+    "static/js/3.f6a996ed.chunk.js": "/static/js/3.f6a996ed.chunk.js",
+    "static/js/3.f6a996ed.chunk.js.map": "/static/js/3.f6a996ed.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a29c76ac.chunk.css.map": "/static/css/main.a29c76ac.chunk.css.map",
+    "static/js/2.7dd97329.chunk.js.LICENSE.txt": "/static/js/2.7dd97329.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/static/media/Nunito-Regular.e4eb7682.ttf",
+    "static/media/section.css": "/static/media/third.ae4ded6c.jpg",
+    "static/media/hero.css": "/static/media/hero.1fc27817.jpg",
+    "static/media/logo.81de7ef7.png": "/static/media/logo.81de7ef7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3280b23f.js",
+    "static/js/runtime-main.d03c7a33.js",
     "static/js/2.7dd97329.chunk.js",
-    "static/css/main.48ebd889.chunk.css",
+    "static/css/main.a29c76ac.chunk.css",
     "static/js/main.21bf75c6.chunk.js"
   ]
 }
